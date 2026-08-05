@@ -3,7 +3,7 @@
 
 ![https://github.com/dawoork](https://github.com/dawoork/dawoork/blob/main/Banner_v5.jpg)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7dVf0zms6w51iVWgRHuttQ?style=social)](https://www.youtube.com/@leanaraque?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7dVf0zms6w51iVWgRHuttQ?style=social)](https://www.youtube.com/@leanaraque)
 [![Twitch Status](https://img.shields.io/twitch/status/leanaraque?style=social)](https://www.twitch.tv/leanaraque)
 [![Discord](https://img.shields.io/discord/1175063228993253456?style=social&label=Discord&logo=discord)](http://dawoork.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/leanaraque?style=social)](https://twitter.com/leanaraque)
