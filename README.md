@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/leanaraque.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://leanaraque.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leanaraque)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@leanaraque)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://dawoork.com/discord)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]([http://dawoork.com/discord](https://discord.gg/H3hqafcKN5))
 [![Email](https://img.shields.io/badge/hey@leanaraque.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hey@leanaraque.com)
 
 Putting an agent into production inside a real company doesn't fail because of the
